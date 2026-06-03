@@ -1,6 +1,6 @@
 # 📱 Contact List App
 
-A simple Flutter application built as part of **Module 8 Assignment** to practice UI implementation using `TextFormField`, `ElevatedButton`, `Card`, and `ListTile`.
+A simple Flutter application built to practice UI implementation using `TextFormField`, `ElevatedButton`, `Card`, and `ListTile`.
 
 ---
 
